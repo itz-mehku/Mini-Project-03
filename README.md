@@ -22,3 +22,5 @@ Mini Project 03: Subset Selection Problem
 ---
 ### **Solution**
 ---
+![image](https://github.com/user-attachments/assets/37b57a53-23f4-4d68-8be4-f6a53d5febf4)
+
