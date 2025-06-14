@@ -1,5 +1,5 @@
 # Mini-Project-03
-Mini Project 02: Subset Selection Problem
+Mini Project 03: Subset Selection Problem
 
 ---
 ### **1. Problem Statement:**
